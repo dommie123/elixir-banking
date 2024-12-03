@@ -1,0 +1,9 @@
+{application,elixir_banking,
+             [{config_mtime,1733109161},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger]},
+              {description,"elixir_banking"},
+              {modules,['Elixir.Banking','Elixir.BankingApp','Elixir.GUI',
+                        'Elixir.OverdraftError','Elixir.UserInput']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
